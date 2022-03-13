@@ -42,8 +42,7 @@ async def on_message(message):
     if message.content.startswith('PARE'):
         on = False
 
-client.run('OTUyNjMyODA4OTUyNzI1NTc0.Yi42cA.UTnXXC33ksSo2OVDKrokQPjlyqI')
-# bot.run(os.getenv('TOKEN'))
+bot.run(os.getenv('TOKEN'))
 
 """
 
