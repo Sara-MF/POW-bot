@@ -32,11 +32,9 @@ async def on_message(message):
     if message.content.startswith('POW'):
         while(on):
             await message.channel.send(':fireworks:  POW POW ROW POW POW  :fireworks:')
-            time.sleep(2)
-            # time.sleep(15)
+            time.sleep(15)
             await message.channel.send('...POW!  :fireworks:')
-            time.sleep(random.randint(5, 10))
-            # time.sleep(random.randint(900, 2700))
+            time.sleep(random.randint(900, 2700))
 
 
     if message.content.startswith('PARE'):
