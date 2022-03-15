@@ -3,6 +3,9 @@ import time
 import random
 import os
 from discord.ext import commands
+from dotenv import load_dotenv
+
+load_dotenv()
 
 client = discord.Client()
 
@@ -32,15 +35,13 @@ async def on_message(message):
     if message.content.startswith('POW'):
         while(on):
             await message.channel.send(':fireworks:  POW POW ROW POW POW  :fireworks:')
-            time.sleep(2)
-            # time.sleep(15)
+            time.sleep(15)
             await message.channel.send('...POW!  :fireworks:')
-            time.sleep(random.randint(5, 10))
-            # time.sleep(random.randint(900, 2700))
+            time.sleep(random.randint(900, 2700))
 
 
     if message.content.startswith('PARE'):
         on = False
 
 # token do bot
-bot.run(os.getenv('TOKEN'))
+client.run(os.getenv("TOKEN"))
