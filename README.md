@@ -1,4 +1,4 @@
- # Link pro POW: a adicionar
+ # Link pro download do POW: a adicionar
 
  - - - -
 
@@ -12,7 +12,7 @@
 
 * Copie o token pra usar no código
 
-* Vá em OAuth2 <kbd>→</kbd> URL Generator
+* Vá em OAuth2 -> URL Generator
 
 * Marque "bot" em scope e as opções de permissão do seu bot abaixo
 
@@ -20,8 +20,8 @@
 
 * Instale o discord.py (provavelmente você terá que programar com python 3.6)
 
-* Exemplo de um simples bot: <discordpy.readthedocs.io/en/latest/quickstart.html#a-minimal-bot>
+* Exemplo de um simples bot: [BOT](https://discordpy.readthedocs.io/en/latest/quickstart.html#a-minimal-bot "BOT")
 
-* Consulte a documentação do discord em caso de dúvidas: <discordpy.readthedocs.io/en/stable>
+* Consulte a documentação do discord em caso de dúvidas: [DOC DISCORD](https://discordpy.readthedocs.io/en/stable/ "DOC DISCORD")
 
 * Programe e hospede seu bot :)
