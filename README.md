@@ -1,25 +1,27 @@
-Link pro POW: a adicionar
+ # Link pro POW: a adicionar
 
-Pra criar seu próprio bot:
+ - - - -
 
-Acesse: discord.com/developers/applications
+ ## Pra criar seu próprio bot:
 
-Clique no botão "New Application", nomeie e crie seu bot
+* Acesse: discord.com/developers/applications
 
-Vá em "Bot" e clique em "Add bot" e em "Yes, do it"
+* Clique no botão "New Application", nomeie e crie seu bot
 
-Copie o token pra usar no código
+* Vá em "Bot" e clique em "Add bot" e em "Yes, do it"
 
-Vá em OAuth2 -> URL Generator
+* Copie o token pra usar no código
 
-Marque "bot" em scope e as opções de permissão do seu bot abaixo
+* Vá em OAuth2 <kbd>→</kbd> URL Generator
 
-Abra a url gerada e convide o bot para o seu servidor (tem que ser admin pra convidar)
+* Marque "bot" em scope e as opções de permissão do seu bot abaixo
 
-Instale o discord.py (provavelmente você terá que programar com python 3.6)
+* Abra a url gerada e convide o bot para o seu servidor (tem que ser admin pra convidar)
 
-Exemplo de um simples bot: discordpy.readthedocs.io/en/latest/quickstart.html#a-minimal-bot
+* Instale o discord.py (provavelmente você terá que programar com python 3.6)
 
-Consulte a documentação do discord em caso de dúvidas: discordpy.readthedocs.io/en/stable/
+* Exemplo de um simples bot: <discordpy.readthedocs.io/en/latest/quickstart.html#a-minimal-bot>
 
-Programe e hospede seu bot :)
+* Consulte a documentação do discord em caso de dúvidas: <discordpy.readthedocs.io/en/stable>
+
+* Programe e hospede seu bot :)
