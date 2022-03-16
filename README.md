@@ -1,7 +1,5 @@
 # POW bot :fireworks:
 
- - - - -
-
  ### Link do POW: [ADD BOT AO SEU SERVIDOR](https://discord.com/api/oauth2/authorize?client_id=952632808952725574&permissions=2048&scope=bot "ADD BOT AO SEU SERVIDOR")
  ### OBS1: Você deve ser admin do servidor para adicionar o bot
  ### OBS2: O bot ainda não está funcionando
