@@ -1,10 +1,14 @@
- # Link do POW: [ADD BOT AO SEU SERVIDOR](https://discord.com/api/oauth2/authorize?client_id=952632808952725574&permissions=2048&scope=bot "ADD BOT AO SEU SERVIDOR")
+# POW bot
+
+ - - - -
+
+ ### Link do POW: [ADD BOT AO SEU SERVIDOR](https://discord.com/api/oauth2/authorize?client_id=952632808952725574&permissions=2048&scope=bot "ADD BOT AO SEU SERVIDOR")
  ### OBS1: Você deve ser admin do servidor para adicionar o bot
  ### OBS2: O bot ainda não está funcionando
 
  - - - -
 
- ## Pra criar seu próprio bot:
+ ### Pra criar seu próprio bot:
 
 * Acesse: [DISCORD DEVELOPERS](https://discord.com/developers/applications "DISCORD DEVELOPERS")
 
