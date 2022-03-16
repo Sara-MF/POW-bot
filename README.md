@@ -1,4 +1,4 @@
-# POW bot
+# POW bot :fireworks:
 
  - - - -
 
