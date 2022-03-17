@@ -21,7 +21,7 @@
 
 * Abra a url gerada e convide o bot para o seu servidor (tem que ser admin pra convidar)
 
-* Instale o discord.py (provavelmente você terá que programar com python 3.6)
+* Instale o discord.py
 
 * Exemplo de um simples bot: [BOT](https://discordpy.readthedocs.io/en/latest/quickstart.html#a-minimal-bot "BOT")
 
